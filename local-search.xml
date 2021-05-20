@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2021/05/20/hello-world/"/>
+    <url>/2021/05/20/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></div></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs bash">$ hexo server<br></code></pre></div></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs bash">$ hexo generate<br></code></pre></div></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></div></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>post</title>
+    <link href="/2021/05/19/test-record/"/>
+    <url>/2021/05/19/test-record/</url>
+    
+    <content type="html"><![CDATA[<p>asdf</p><h4 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h4><h3 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h3><p>##我也不知道是几级的标题</p><img src="/2021/05/19/test-record/rabbit.jpg" class=""><p><img src="http://baidu.com/pic/doge.png" alt="avatar"><br><img src="./rabbit.jpg" alt="一张post文件夹的红蒂的图"><br><img src="./skdance.gif" alt="一张source文件里红蒂的图"><br><img src="./new42.png" alt="一张post里42和鸡翅新衣服的图"><br><img src="./source/img/new42.png" alt="一张source42和鸡翅新衣服的图"></p><p><img src="./post/new42.png" alt="一张42和鸡翅新衣服的图"><br><img src="https://i0.hdslb.com/bfs/album/ac9c2b5f9f680be82e2272df144be02df7e317a9.jpg@518w.webp" alt="一张外链的蓝毒新衣服的图"><br><img src="https://c-ssl.duitang.com/uploads/item/201906/24/20190624123232_egpwo.thumb.1000_0.jpg" alt="一张守林的外链图"></p><ol><li>to use hexo ,spend 2 h on reading doc</li><li>first new,then g, and d to deploy</li><li>trying to put a shuffle number on every lines head</li><li>i wonder what will happen when deployed<h3 id="about-to-put-a-storge-to-achieve-pic-in-blog"><a href="#about-to-put-a-storge-to-achieve-pic-in-blog" class="headerlink" title="about to put a storge to achieve pic in blog"></a>about to put a storge to achieve pic in blog</h3></li><li>as far as i know : use hexo plugin ,but there is a problem of URL of pic</li><li>or to use github as a storge , and paste pic’s URL as ![ ] like this</li></ol>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
