@@ -1,0 +1,4 @@
+# wanefang.github.io —— GitHub Pages 产物仓库
+# 这里只放构建产物（HTML / CSS / JS / 图片 / 搜索索引），源码一律不入库。
+# 唯一排除项：IDE 工作区数据
+.workbuddy/
