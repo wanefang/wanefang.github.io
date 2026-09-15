@@ -5,11 +5,17 @@
   
   <entry>
     <title>createsite</title>
-    <link href="/2021/05/22/createsite/"/>
-    <url>/2021/05/22/createsite/</url>
+    <link href="/posts/createsite/"/>
+    <url>/posts/createsite/</url>
     
-    <content type="html"><![CDATA[<h1 id="五月份第三周"><a href="#五月份第三周" class="headerlink" title="五月份第三周"></a>五月份第三周</h1><h2 id="建站"><a href="#建站" class="headerlink" title="建站"></a>建站</h2><p>服务器：github注册账号提供（上限300mb）</p><p>工具：git      node.js</p><p>静态网页生成工具： hexo  </p><p>主题使用fluid，（先用过了next，但是这个脚本有点问题，相对路径的转换有bug，会导致网页内含的图片不显示，直接显示无法访问的tag</p><p>md文件编辑器：typora（可以在本体相对路径插入图片看效果，方便排版</p><h2 id="关于模板和工具的联动"><a href="#关于模板和工具的联动" class="headerlink" title="关于模板和工具的联动"></a>关于模板和工具的联动</h2><p>修改hexo内的config文件时，url改为网站地址，git和deploy使用对应的标准即可，有对应的工具包，可以直接使用简单的指令部署到服务器。</p><h2 id="最后留点指令的笔记自己康康"><a href="#最后留点指令的笔记自己康康" class="headerlink" title="最后留点指令的笔记自己康康"></a>最后留点指令的笔记自己康康</h2><p>hexo cl    #clean清除缓存</p><p>hexo g    #generate 生成网页 -w  watch可以看看文件改动</p><p>hexo s    #start把网页放在本地默认接口上，用浏览器可以预览一哈</p><p>hexo d    #deploy部署命令，因为做好了git-deploy的包，会直接部署到github</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="五月份第三周"><a href="#五月份第三周" class="headerlink" title="五月份第三周"></a>五月份第三周</h1><h2 id="建站"><a href="#建站" class="headerlink" title="建站"></a>建站</h2><p>服务器：github注册账号提供（上限300mb）<br>工具：git      node.js<br>静态网页生成工具： hexo<br>主题使用fluid，（先用过了next，但是这个脚本有点问题，相对路径的转换有bug，会导致网页内含的图片不显示，直接显示无法访问的tag<br>md文件编辑器：typora（可以在本体相对路径插入图片看效果，方便排版</p><h2 id="关于模板和工具的联动"><a href="#关于模板和工具的联动" class="headerlink" title="关于模板和工具的联动"></a>关于模板和工具的联动</h2><p>修改hexo内的config文件时，url改为网站地址，git和deploy使用对应的标准即可，有对应的工具包，可以直接使用简单的指令部署到服务器。</p><h2 id="最后留点指令的笔记自己康康"><a href="#最后留点指令的笔记自己康康" class="headerlink" title="最后留点指令的笔记自己康康"></a>最后留点指令的笔记自己康康</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo cl    <span class="hljs-comment">#clean清除缓存</span><br>hexo g    <span class="hljs-comment">#generate 生成网页 -w  watch可以看看文件改动</span><br>hexo s    <span class="hljs-comment">#start把网页放在本地默认接口上，用浏览器可以预览一哈</span><br>hexo d    <span class="hljs-comment">#deploy部署命令，因为做好了git-deploy的包，会直接部署到github</span><br></code></pre></td></tr></table></figure>]]></content>
     
+    
+    <categories>
+      
+      <category>建站</category>
+      
+    </categories>
     
     
     <tags>
@@ -24,11 +30,17 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="/2021/05/20/hello-world/"/>
-    <url>/2021/05/20/hello-world/</url>
+    <link href="/posts/hello-world/"/>
+    <url>/posts/hello-world/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></div></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs bash">$ hexo server<br></code></pre></div></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs bash">$ hexo generate<br></code></pre></div></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></div></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>]]></content>
     
+    
+    <categories>
+      
+      <category>未分类</category>
+      
+    </categories>
     
     
   </entry>
@@ -37,11 +49,17 @@
   
   <entry>
     <title>post</title>
-    <link href="/2021/05/19/test-record/"/>
-    <url>/2021/05/19/test-record/</url>
+    <link href="/posts/test-record/"/>
+    <url>/posts/test-record/</url>
     
-    <content type="html"><![CDATA[<p>asdf</p><h4 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h4><h3 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h3><p>##我也不知道是几级的标题</p><img src="/2021/05/19/test-record/rabbit.jpg" class=""><p><img src="http://baidu.com/pic/doge.png" alt="avatar"><br><img src="./rabbit.jpg" alt="一张post文件夹的红蒂的图"><br><img src="./skdance.gif" alt="一张source文件里红蒂的图"><br><img src="./new42.png" alt="一张post里42和鸡翅新衣服的图"><br><img src="./source/img/new42.png" alt="一张source42和鸡翅新衣服的图"></p><p><img src="./post/new42.png" alt="一张42和鸡翅新衣服的图"><br><img src="https://i0.hdslb.com/bfs/album/ac9c2b5f9f680be82e2272df144be02df7e317a9.jpg@518w.webp" alt="一张外链的蓝毒新衣服的图"><br><img src="https://c-ssl.duitang.com/uploads/item/201906/24/20190624123232_egpwo.thumb.1000_0.jpg" alt="一张守林的外链图"></p><ol><li>to use hexo ,spend 2 h on reading doc</li><li>first new,then g, and d to deploy</li><li>trying to put a shuffle number on every lines head</li><li>i wonder what will happen when deployed<h3 id="about-to-put-a-storge-to-achieve-pic-in-blog"><a href="#about-to-put-a-storge-to-achieve-pic-in-blog" class="headerlink" title="about to put a storge to achieve pic in blog"></a>about to put a storge to achieve pic in blog</h3></li><li>as far as i know : use hexo plugin ,but there is a problem of URL of pic</li><li>or to use github as a storge , and paste pic’s URL as ![ ] like this</li></ol>]]></content>
+    <content type="html"><![CDATA[<p>asdf</p><h4 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h4><h3 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h3><p>##我也不知道是几级的标题</p><hr><p><img src="/posts/test-record/rabbit.jpg" alt="一张 post 文件夹的红蒂的图"></p><p><img src="/posts/test-record/skdance.gif" alt="一张 source 文件里红蒂的图"></p><p><img src="/posts/test-record/new42.png" alt="一张 post 里 42 和鸡翅新衣服的图"></p><p><img src="/img/external/bilibili-bluepoison.jpg" alt="一张外链的蓝毒新衣服的图"></p><p><img src="/img/external/duitang-ranger.jpg" alt="一张守林的外链图"></p><hr><ol><li>to use hexo ,spend 2 h on reading doc</li><li>first new,then g, and d to deploy</li><li>trying to put a shuffle number on every lines head</li><li>i wonder what will happen when deployed</li></ol><h3 id="about-to-put-a-storge-to-achieve-pic-in-blog"><a href="#about-to-put-a-storge-to-achieve-pic-in-blog" class="headerlink" title="about to put a storge to achieve pic in blog"></a>about to put a storge to achieve pic in blog</h3><ol start="5"><li>as far as i know : use hexo plugin ,but there is a problem of URL of pic</li><li>or to use github as a storge , and paste pic’s URL as ![ ] like this</li></ol><hr><h2 id="备注：当年测试的图片路径"><a href="#备注：当年测试的图片路径" class="headerlink" title="备注：当年测试的图片路径"></a>备注：当年测试的图片路径</h2><table><thead><tr><th>原写法</th><th>结果</th><th>说明</th></tr></thead><tbody><tr><td><code>/2021/05/19/test-record/rabbit.jpg</code></td><td>✅</td><td>绝对路径，最稳</td></tr><tr><td><code>./rabbit.jpg</code>（同级资源夹）</td><td>⚠️</td><td>需开启 <code>marked.prependRoot + postAsset</code>，否则首页裂图</td></tr><tr><td><code>./source/img/new42.png</code>、<code>./post/new42.png</code></td><td>❌</td><td>相对路径基准错误</td></tr><tr><td><code>http://baidu.com/pic/doge.png</code></td><td>❌</td><td>占位外链，早已失效（本次重建已删除）</td></tr><tr><td>B站 &#x2F; 堆糖外链</td><td>⚠️</td><td>依赖第三方，已下载到 <code>/img/external/</code> 本地化</td></tr></tbody></table>]]></content>
     
+    
+    <categories>
+      
+      <category>未分类</category>
+      
+    </categories>
     
     
     <tags>
