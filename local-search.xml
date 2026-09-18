@@ -4,6 +4,44 @@
   
   
   <entry>
+    <title>wisdom塞尔达传说/智慧的再现</title>
+    <link href="/posts/wisdom%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4-%E6%99%BA%E6%85%A7%E7%9A%84%E5%86%8D%E7%8E%B0/"/>
+    <url>/posts/wisdom%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4-%E6%99%BA%E6%85%A7%E7%9A%84%E5%86%8D%E7%8E%B0/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>未分类</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Dispatch超英派遣中心</title>
+    <link href="/posts/Dispatch%E8%B6%85%E8%8B%B1%E6%B4%BE%E9%81%A3%E4%B8%AD%E5%BF%83/"/>
+    <url>/posts/Dispatch%E8%B6%85%E8%8B%B1%E6%B4%BE%E9%81%A3%E4%B8%AD%E5%BF%83/</url>
+    
+    <content type="html"><![CDATA[<h2 id="Dispatch超英派遣中心"><a href="#Dispatch超英派遣中心" class="headerlink" title="Dispatch超英派遣中心"></a>Dispatch超英派遣中心</h2><h3 id="游戏本体-6-10"><a href="#游戏本体-6-10" class="headerlink" title="游戏本体 6&#x2F;10"></a>游戏本体 6&#x2F;10</h3><p>本身是一个类似于美漫的剧情游戏，玩家的选择会影响剧情走向，中间在演出的时候还会穿插一些益智小游戏和qte。选择对话选项和qte能让玩家在过剧情的时候能稍微有点参与感，益智小游戏类似于摇骰子，也涉及一点养成要素，但游戏性比较有限，主要的内容还是在于阅读文本体验剧情上。游戏流程不长，可以当一个小品游戏浅尝一下。</p><h3 id="剧透警告"><a href="#剧透警告" class="headerlink" title="剧透警告"></a>剧透警告</h3><p>本身游戏内容不多，角色塑造一般，经典美漫脸谱，剧情倾向于正派成长组队击败反派然后包饺子这种很传统的剧情，一眼能看到头。本身美漫画风看上去比较舒服，叙事节奏也还可以，但是弱智小游戏又很好的弥补了这一点，养成要素能看到明确的提升，但是这点提升在随机小游戏的内容中影响没有预想的那么大。<br>主角作为一个没那么聪明的钢铁侠，开局机甲被坏人设计打爆了，正在落魄的时候收到了一个话务员邀请，boss直聘入场成了一个垫底英雄小队的调度员。在日常的执行任务中跟小队培养了能力和感情，经历挫折成长，最后和小队一起击败了坏人，over。里面的女1是一个假小子反派转正，中间怀疑再次背叛然后实际洗白，女2是拿了个宝石变成了金发神奇女侠，是调度中心的大老板。男1就瘦弱it男但是会开机甲，男2是闪电侠但是会加速衰老，最后结局老头形态拿到了宝石恢复了行动能力。<br>游戏本身第一次玩看看剧情演出差不多得了，小游戏对于剧情的影响并不大，而且虽然准备了对话选项走不同的分支路线，但实际上打完一次之后基本都能预估到别的，感觉没什么重新游玩的意向。。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>未分类</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>createsite</title>
     <link href="/posts/createsite/"/>
     <url>/posts/createsite/</url>
@@ -52,7 +90,7 @@
     <link href="/posts/test-record/"/>
     <url>/posts/test-record/</url>
     
-    <content type="html"><![CDATA[<p>asdf</p><h4 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h4><h3 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h3><p>##我也不知道是几级的标题</p><hr><p><img src="/posts/test-record/rabbit.jpg" alt="一张 post 文件夹的红蒂的图"></p><p><img src="/posts/test-record/skdance.gif" alt="一张 source 文件里红蒂的图"></p><p><img src="/posts/test-record/new42.png" alt="一张 post 里 42 和鸡翅新衣服的图"></p><p><img src="/img/external/bilibili-bluepoison.jpg" alt="一张外链的蓝毒新衣服的图"></p><p><img src="/img/external/duitang-ranger.jpg" alt="一张守林的外链图"></p><hr><ol><li>to use hexo ,spend 2 h on reading doc</li><li>first new,then g, and d to deploy</li><li>trying to put a shuffle number on every lines head</li><li>i wonder what will happen when deployed</li></ol><h3 id="about-to-put-a-storge-to-achieve-pic-in-blog"><a href="#about-to-put-a-storge-to-achieve-pic-in-blog" class="headerlink" title="about to put a storge to achieve pic in blog"></a>about to put a storge to achieve pic in blog</h3><ol start="5"><li>as far as i know : use hexo plugin ,but there is a problem of URL of pic</li><li>or to use github as a storge , and paste pic’s URL as ![ ] like this</li></ol><hr><h2 id="备注：当年测试的图片路径"><a href="#备注：当年测试的图片路径" class="headerlink" title="备注：当年测试的图片路径"></a>备注：当年测试的图片路径</h2><table><thead><tr><th>原写法</th><th>结果</th><th>说明</th></tr></thead><tbody><tr><td><code>/2021/05/19/test-record/rabbit.jpg</code></td><td>✅</td><td>绝对路径，最稳</td></tr><tr><td><code>./rabbit.jpg</code>（同级资源夹）</td><td>⚠️</td><td>需开启 <code>marked.prependRoot + postAsset</code>，否则首页裂图</td></tr><tr><td><code>./source/img/new42.png</code>、<code>./post/new42.png</code></td><td>❌</td><td>相对路径基准错误</td></tr><tr><td><code>http://baidu.com/pic/doge.png</code></td><td>❌</td><td>占位外链，早已失效（本次重建已删除）</td></tr><tr><td>B站 &#x2F; 堆糖外链</td><td>⚠️</td><td>依赖第三方，已下载到 <code>/img/external/</code> 本地化</td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<p>asdf</p><h4 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h4><h3 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h3><p>##我也不知道是几级的标题</p><hr><p><img src="/posts/test-record/rabbit.jpg" alt="一张 post 文件夹的红蒂的图"></p><p><img src="/posts/test-record/skdance.webp" alt="一张 source 文件里红蒂的图"></p><p><img src="/posts/test-record/new42.webp" alt="一张 post 里 42 和鸡翅新衣服的图"></p><p><img src="/img/external/bilibili-bluepoison.jpg" alt="一张外链的蓝毒新衣服的图"></p><p><img src="/img/external/duitang-ranger.webp" alt="一张守林的外链图"></p><hr><ol><li>to use hexo ,spend 2 h on reading doc</li><li>first new,then g, and d to deploy</li><li>trying to put a shuffle number on every lines head</li><li>i wonder what will happen when deployed</li></ol><h3 id="about-to-put-a-storge-to-achieve-pic-in-blog"><a href="#about-to-put-a-storge-to-achieve-pic-in-blog" class="headerlink" title="about to put a storge to achieve pic in blog"></a>about to put a storge to achieve pic in blog</h3><ol start="5"><li>as far as i know : use hexo plugin ,but there is a problem of URL of pic</li><li>or to use github as a storge , and paste pic’s URL as ![ ] like this</li></ol><hr><h2 id="备注：当年测试的图片路径"><a href="#备注：当年测试的图片路径" class="headerlink" title="备注：当年测试的图片路径"></a>备注：当年测试的图片路径</h2><table><thead><tr><th>原写法</th><th>结果</th><th>说明</th></tr></thead><tbody><tr><td><code>/2021/05/19/test-record/rabbit.jpg</code></td><td>✅</td><td>绝对路径，最稳</td></tr><tr><td><code>./rabbit.jpg</code>（同级资源夹）</td><td>⚠️</td><td>需开启 <code>marked.prependRoot + postAsset</code>，否则首页裂图</td></tr><tr><td><code>./source/img/new42.webp</code>、<code>./post/new42.webp</code></td><td>❌</td><td>相对路径基准错误</td></tr><tr><td><code>http://baidu.com/pic/doge.png</code></td><td>❌</td><td>占位外链，早已失效（本次重建已删除）</td></tr><tr><td>B站 &#x2F; 堆糖外链</td><td>⚠️</td><td>依赖第三方，已下载到 <code>/img/external/</code> 本地化</td></tr></tbody></table>]]></content>
     
     
     <categories>
